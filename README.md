@@ -6,7 +6,7 @@
 
 📍 Lima, Perú  
 🎓 Computación e Informática  
-🚀 Construyendo proyectos y mejorando cada día
+
 
 </div>
 
