@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Piero Verde
+#  Piero Verde
 
 ### Full Stack Developer | Cybersecurity Student | Tech Enthusiast
 
