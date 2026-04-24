@@ -29,7 +29,7 @@ mindset: never stop learning
 
 ---
 
-## ⚙️ TOOLKIT
+##  TOOLKIT
 
 <div align="center">
 
@@ -44,7 +44,7 @@ mindset: never stop learning
 
 ---
 
-## 📡 SYSTEM STATUS
+##  SYSTEM STATUS
 
 <div align="center">
 
@@ -58,7 +58,7 @@ mindset: never stop learning
 
 ---
 
-## 🎯 CURRENT OPERATIONS
+## CURRENT OPERATIONS
 
 ```diff
 + Secure Coding
@@ -80,12 +80,12 @@ Instagram= instagram.com/bmtraker
 
 ---
 
-## ☠️ MOTTO
+## MOTTO
 
 ```bash
-# Stay hidden.
-# Move smart.
-# Build powerful.
+# S
+# M
+# B
 ```
 
 ---
