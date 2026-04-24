@@ -1,79 +1,97 @@
 <div align="center">
 
-#  Piero Verde
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=BMTRAKER;BMTRAKER;BMTRAKER" />
 
-### Full Stack Developer | Cybersecurity Student | Tech Enthusiast
+```bash
+$ whoami
+Piero Verde
+```
 
-📍 Lima, Perú  
-🎓 Computación e Informática  
-
-
-</div>
-
----
-
-## 🧠 Sobre mí
-
-Soy estudiante de Computación e Informática enfocado en desarrollo de software, ciberseguridad y soluciones prácticas.  
-Actualmente trabajo y estudio, fortaleciendo habilidades técnicas y disciplina profesional.
-
-- 🔐 Interés en Ciberseguridad y Ethical Hacking
-- 💻 Desarrollo Web / Backend / Mobile
-- 📊 Interés en Data & Automation
-- 📚 Aprendizaje continuo
-
----
-
-## ⚙️ Tecnologías
-
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Spring](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=penetrating+limits...;building+systems...;learning+security...;staying+anonymous..." />
 
 </div>
 
 ---
 
-## 📈 GitHub Stats
+## 🕶️ IDENTITY
+
+```yaml
+alias: BMTRAKER
+location: ?
+role: Developer / Student
+specialization:
+  - Cybersecurity
+  - Backend Development
+  - Mobile Apps
+status: active
+mindset: never stop learning
+```
+
+---
+
+## ⚙️ TOOLKIT
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bmtraker&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bmtraker&layout=compact&theme=tokyonight&hide_border=true)
-
-![Streak](https://streak-stats.demolab.com?user=Bmtraker&theme=tokyonight&hide_border=true)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=00FF00)
+![Kotlin](https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=00FF00)
+![Spring](https://img.shields.io/badge/Spring-000000?style=for-the-badge&logo=spring&logoColor=00FF00)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00FF00)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00FF00)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF00)
 
 </div>
 
 ---
 
-## 🚀 Proyectos Destacados
+## 📡 SYSTEM STATUS
 
-- 🏥 Sistema de Clínica en ASP.NET Core MVC  
-- 📦 Sistema de Almacén de Ropa (Android Kotlin)  
-- 🔐 Laboratorios DVWA / OWASP Top 10  
-- ☕ APIs REST con Spring Boot  
-- 🗄️ Bases de datos relacionales SQL
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bmtraker&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bmtraker&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000)
+
+![Streak](https://streak-stats.demolab.com?user=Bmtraker&theme=highcontrast&hide_border=true)
+
+</div>
 
 ---
 
+## 🎯 CURRENT OPERATIONS
 
-## 📫 Contacto
+```diff
++ Secure Coding
++ Android Development
++ Spring Boot APIs
++ Database Engineering
++ Ethical Hacking Labs
+```
 
-- LinkedIn: www.linkedin.com/in/piero-verde-3a439130a
-- GitHub: https://github.com/Bmtraker
-- Instagram: https://www.instagram.com/bmtraker/
+---
+
+## 🌐 NETWORK ACCESS
+
+```ini
+LinkedIn = linkedin.com/in/piero-verde-3a439130a
+GitHub   = github.com/Bmtraker
+Instagram= instagram.com/bmtraker
+```
+
+---
+
+## ☠️ MOTTO
+
+```bash
+# Stay hidden.
+# Move smart.
+# Build powerful.
+```
+
 ---
 
 <div align="center">
 
-### ⚡ Code. Learn. Improve. Repeat.
+![Visitor Count](https://komarev.com/ghpvc/?username=Bmtraker&color=00ff00&style=flat-square)
 
 </div>
