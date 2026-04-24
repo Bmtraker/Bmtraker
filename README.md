@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=BMTRAKER;BMTRAKER;BMTRAKER" />
 
 ```bash
-$ whoami
+$ who a im
 Piero Verde
 ```
 
@@ -13,9 +13,9 @@ Piero Verde
 
 ---
 
-## 🕶️ IDENTITY
+##  ?
 
-```yaml
+yaml
 alias: BMTRAKER
 location: ?
 role: Developer / Student
@@ -23,9 +23,6 @@ specialization:
   - Cybersecurity
   - Backend Development
   - Mobile Apps
-status: active
-mindset: never stop learning
-```
 
 ---
 
@@ -60,33 +57,32 @@ mindset: never stop learning
 
 ## 🎯 CURRENT OPERATIONS
 
-```diff
+`diff
 + Secure Coding
 + Android Development
 + Spring Boot APIs
 + Database Engineering
 + Ethical Hacking Labs
-```
+
 
 ---
 
-## 🌐 NETWORK ACCESS
+## 🌐 
 
-```ini
+ ini
 LinkedIn = linkedin.com/in/piero-verde-3a439130a
-GitHub   = github.com/Bmtraker
 Instagram= instagram.com/bmtraker
-```
+x: = https://x.com/bmtraker
 
 ---
 
 ## ☠️ MOTTO
 
-```bash
+``bash
 # Stay hidden.
 # Move smart.
 # Build powerful.
-```
+``
 
 ---
 
